@@ -25,7 +25,7 @@ Client
     5. sau khi quay xong thì sẽ có phiên chơi mới sau 2p 
     6. sau khi hết thời gian khóa phiên thì tiếp tục có phiên chơi mới cho người chơi  
 + Api số người chơi bị sai: hiện tại đang trả ra danh sách người chơi bị trùng
-~~+ Public jackpot api~~
++ ~~Public jackpot api~~
         
 # Vòng quay mãy mắn     
 + API Danh sách sản phẩm bị lỗi 500
