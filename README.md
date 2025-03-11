@@ -14,7 +14,7 @@ Client
 + Tăng thời gian playanle lên 2p        
         
 # Xổ số 
-+ API public bị 403
++ API public bị 401
         
 # Jackpot
 + API backdoor có vẻ chưa hoạt động 
