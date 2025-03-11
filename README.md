@@ -4,9 +4,10 @@ Client
 
 # Product Filter
 + Filter theo số vé: gần trả thưởng
-+ Filter theo isSpecial bị 500
-+ Càn lọc ra những sản phẩm đang chạy             
-+ Có rất nhiều sản phẩm trả về totalPoint bằng 0 hoặc không trả về totalPoint 
++ Filter theo isSpecial không truyền isOrderable và categories bị 500
++ ~~Càn lọc ra những sản phẩm đang chạy~~             
++ Có rất nhiều sản phẩm trả về totalPoint bằng 0 hoặc không trả về totalPoint
++ Sắp xếp: theo giá, theo độ yêu thích, theo lượt chơi
         
 # Cược 
 + Cược vào 1 san phẩm đủ số nhưng không quay
